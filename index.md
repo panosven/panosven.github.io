@@ -85,7 +85,7 @@ permalink: /
 
 
   <!-- GitHub -->
- <a href="https://github.com/panosven" title="GitHub" target="_blank">
+ <a href="https://github.com/panosven" title="Code" target="_blank">
     <i class="fab fa-github"></i>
 </a>
 </div>
