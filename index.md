@@ -16,10 +16,7 @@ permalink: /
     <h1 style="margin-bottom: 10px;">Panagiotis Veneris</h1>
 
     <div style="font-size: 1.1em; font-weight: none; margin-bottom: 8px;">
-      PhD Student in Economics,
-      <a href="https://www.liverpool.ac.uk/management/" style="color:#0066cc; text-decoration:none;">
-        University of Liverpool Management School (ULMS)
-      </a>
+      PhD Student in Economics, University of Liverpool Management School
     </div>
 
     <div style="font-size: 1.05em; color: #555;">
