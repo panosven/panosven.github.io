@@ -95,7 +95,7 @@ permalink: /
 
 <!-- BIO SECTION -->
 <p style="font-size: 1.05em;">
-Hi, and welcome! I am a PhD student in Economics at <a href="https://www.liverpool.ac.uk/management/" style="color:#0066cc; text-decoration:none;">
+Hi, and welcome! I am a PhD student in Economics at <a href="https://www.liverpool.ac.uk/management/" class="ulms-link>
 University of Liverpool Management School (ULMS)
 </a>.
 </p>
