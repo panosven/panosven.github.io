@@ -44,6 +44,11 @@ permalink: /
   gap:60px;             /* Space between icon groups */
 ">
 
+<!-- Email -->
+    <a href="mailto:YOUR_EMAIL@liverpool.ac.uk" title="Email">
+        <i class="fas fa-envelope"></i>
+    </a>
+
   <!-- Unified CV block -->
   <div style="display:flex; align-items:center; gap:4px;">
 
