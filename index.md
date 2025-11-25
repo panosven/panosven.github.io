@@ -79,16 +79,15 @@ permalink: /
     </a>
 
   <!-- Twitter -->
-  a href="YOUR_TWITTER_URL" title="Twitter">
-        <i class="fab fa-twitter"></i>
-    </a>
+ <a href="https://x.com/PanagiotisVene1" title="Twitter" target="_blank">
+    <i class="fab fa-twitter"></i>
+</a>
 
 
   <!-- GitHub -->
-  <a href="[YOUR_GITHUB_URL](https://x.com/PanagiotisVene1)" style="text-decoration:none;">
-    <i class="fab fa-github" style="font-size:0.95em; color:#000;"></i>
-  </a>
-
+ <a href="https://github.com/panosven" title="GitHub" target="_blank">
+    <i class="fab fa-github"></i>
+</a>
 </div>
 
 
