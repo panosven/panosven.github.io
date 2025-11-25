@@ -54,7 +54,7 @@ permalink: /
 
     <!-- File icon -->
     <a href="/files/Veneris_CV_25112025.pdf" title="CV" style="text-decoration:none;">
-        <i class="fas fa-file-alt" style="font-size:0.9em; color:#0b3cfc;"></i>
+        <i class="fas fa-file-alt" style="font-size:0.9em;"></i>
     </a>
 
     <!-- CV box -->
