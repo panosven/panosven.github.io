@@ -74,17 +74,18 @@ permalink: /
   </div>
 
   <!-- Scholar -->
-  <a href="YOUR_GOOGLE_SCHOLAR_URL" style="text-decoration:none;">
-    <i class="fas fa-graduation-cap" style="font-size:0.95em; color:#555;"></i>
-  </a>
+  <a href="YOUR_GOOGLE_SCHOLAR_URL" title="Google Scholar">
+        <i class="fas fa-graduation-cap"></i>
+    </a>
 
   <!-- Twitter -->
-  <a href="YOUR_TWITTER_URL" style="text-decoration:none;">
-    <i class="fab fa-twitter" style="font-size:0.95em; color:#1DA1F2;"></i>
-  </a>
+  a href="YOUR_TWITTER_URL" title="Twitter">
+        <i class="fab fa-twitter"></i>
+    </a>
+
 
   <!-- GitHub -->
-  <a href="YOUR_GITHUB_URL" style="text-decoration:none;">
+  <a href="[YOUR_GITHUB_URL](https://x.com/PanagiotisVene1)" style="text-decoration:none;">
     <i class="fab fa-github" style="font-size:0.95em; color:#000;"></i>
   </a>
 
