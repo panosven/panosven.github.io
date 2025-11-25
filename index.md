@@ -95,8 +95,8 @@ permalink: /
 
 <!-- BIO SECTION -->
 <p style="font-size: 1.05em;">
-Hi, and welcome! I am a PhD student in Economics at <a href="https://www.liverpool.ac.uk/management/" class="ulms-link> University of Liverpool Management School (ULMS) </a>
-</p>
+Hi, and welcome! I am a PhD student in Economics at <a href="https://www.liverpool.ac.uk/management/" class="ulms-link">University of Liverpool Management School (ULMS)</a>
+
 
 <p style="font-size: 1.05em; margin-top: 15px;">
 My research interests lie in the area of quantitative macroeconomics, with a special interest in financial frictions,
