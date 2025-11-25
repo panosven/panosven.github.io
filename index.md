@@ -43,7 +43,7 @@ permalink: /
 <p style="font-size: 1.05em;">
 Hi, and welcome! I am a PhD student in Economics at
 <a href="https://www.liverpool.ac.uk/management/" style="color:#0066cc; text-decoration:none;">
-University of Liverpool Management School (ULMS)
+ULMS
 </a>.
 My research interests lie in the area of quantitative macroeconomics, with a special interest in financial frictions,
 heterogeneity, and the role of capital flows. Over the years, I have conducted research at the Bank of Greece,
