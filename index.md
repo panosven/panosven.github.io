@@ -10,8 +10,7 @@ permalink: /
 
 # Panagiotis Veneris
 
-**PhD Student in Economics**  
-**University of Liverpool Management School**  
+**PhD Student in Economics**, **<a href="https://www.liverpool.ac.uk/management/" target="_blank">ULMS</a>**  
 Macroeconomics · Monetary Economics · Macro-Finance  
 <br>
 
@@ -24,7 +23,7 @@ Macroeconomics · Monetary Economics · Macro-Finance
 
 ---
 
-Hi, and welcome! I am a PhD in Economics student at ULMS.  
+Hi, and welcome! I am a PhD student in Economics student at ULMS.  
 
 My research interests lie in the area of quantitative macroeconomics, with a special interest in financial frictions, heterogeneity, and the role of capital flows. Over the years, I have conducted research at the Bank of Greece, the European Central Bank, and the Bank of Lithuania.  
 
