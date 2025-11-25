@@ -10,8 +10,8 @@ permalink: /
 
 # Your Name
 
-**Your Position**, **Your Institution**  
-Macroeconomics · Monetary Economics · Finance  
+**PhD student in Economics**, **University of Liverpool Management School**  
+Macroeconomics · Monetary Economics · Macro-Finance  
 <br>
 
 <div style="text-align:center; font-size: 1.4em;">
@@ -23,7 +23,7 @@ Macroeconomics · Monetary Economics · Finance
 
 ---
 
-Hi, welcome! I am a **Your Position** in **Economics** at **Your Institution**.  
+Hi, welcome! I am a **PhD student** in **Economics** at **[University of Liverpool Management School](https://www.liverpool.ac.uk/management/)**.  
 My research focuses on **your research areas**.  
 I received my PhD from **Your University** under **Your Advisor**.  
 In recent years, I have also been affiliated with **institutions**.
