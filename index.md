@@ -29,12 +29,53 @@ permalink: /
 <br>
 
 <!-- ICON ROW BELOW HEADER -->
-<div style="text-align:left; font-size: 1.4em; margin-top: 5px; margin-left: 210px;">
-  <a href="/files/cv.pdf" style="margin-right: 15px;"><i class="fas fa-file-alt"></i></a>
-  <a href="YOUR_GOOGLE_SCHOLAR_URL" style="margin-right: 15px;"><i class="fas fa-graduation-cap"></i></a>
-  <a href="YOUR_TWITTER_URL" style="margin-right: 15px;"><i class="fab fa-twitter"></i></a>
-  <a href="YOUR_GITHUB_URL"><i class="fab fa-github"></i></a>
+<div style="
+  text-align:left;
+  font-size: 1.4em;
+  margin-top: 5px;
+  margin-left: 210px;
+  display:flex;
+  align-items:center;
+  gap:18px;
+">
+
+  <!-- CV icon -->
+  <a href="/files/cv.pdf" style="text-decoration:none;">
+    <i class="fas fa-file-alt" style="color:#0b3bfc;"></i>
+  </a>
+
+  <!-- CV outlined button -->
+  <a href="/files/cv.pdf"
+     style="
+       border: 2px solid #0b3bfc;
+       padding: 3px 12px;
+       border-radius: 8px;
+       color: #0b3bfc;
+       font-weight: 600;
+       font-size: 0.6em;
+       text-decoration: none;
+       display:inline-block;
+     ">
+     CV
+  </a>
+
+  <!-- Google Scholar -->
+  <a href="YOUR_GOOGLE_SCHOLAR_URL" style="text-decoration:none;">
+    <i class="fas fa-graduation-cap" style="color:#555;"></i>
+  </a>
+
+  <!-- Twitter -->
+  <a href="YOUR_TWITTER_URL" style="text-decoration:none;">
+    <i class="fab fa-twitter" style="color:#1DA1F2;"></i>
+  </a>
+
+  <!-- GitHub -->
+  <a href="YOUR_GITHUB_URL" style="text-decoration:none;">
+    <i class="fab fa-github" style="color:#000;"></i>
+  </a>
+
 </div>
+
 
 
 <br>
