@@ -8,7 +8,7 @@ permalink: /
 
   <!-- LEFT: PROFILE PHOTO -->
   <div style="flex-shrink: 0;">
-    <img src="/images/panagiotis_picture.png" alt="Profile photo" width="180" style="border-radius: 50%;" />
+    <img src="/images/panosven_picture.png" alt="Profile photo" width="180" style="border-radius: 50%;" />
   </div>
 
   <!-- RIGHT: NAME + POSITION + RESEARCH INTERESTS -->
