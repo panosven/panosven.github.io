@@ -17,7 +17,9 @@ permalink: /
 
     <div style="font-size: 1.1em; font-weight: none; margin-bottom: 8px;">
       PhD Student in Economics,
-      University of Liverpool Management School
+      <a href="https://www.liverpool.ac.uk/management/" style="color:#0066cc; text-decoration:none;">
+        University of Liverpool Management School (ULMS)
+      </a>
     </div>
 
     <div style="font-size: 1.05em; color: #555;">
