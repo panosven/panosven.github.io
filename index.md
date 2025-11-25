@@ -40,24 +40,18 @@ permalink: /
 ">
 
   <!-- CV icon -->
-  <a href="/files/cv.pdf" style="text-decoration:none;">
-    <i class="fas fa-file-alt" style="color:#0b3bfc;"></i>
-  </a>
+ <!-- CV icon + text -->
+<a href="/files/cv.pdf"
+   style="display:flex; align-items:center; gap:8px; text-decoration:none; color:#0b3bfc;">
 
-  <!-- CV outlined button -->
-  <a href="/files/cv.pdf"
-     style="
-       border: 2px solid #0b3bfc;
-       padding: 3px 12px;
-       border-radius: 8px;
-       color: #0b3bfc;
-       font-weight: 600;
-       font-size: 0.6em;
-       text-decoration: none;
-       display:inline-block;
-     ">
-     CV
-  </a>
+    <!-- Blue file icon -->
+    <i class="fas fa-file-alt" style="font-size:1.4em; color:#0b3bfc;"></i>
+
+    <!-- CV text -->
+    <span style="font-size:1.1em; font-weight:600;">CV</span>
+
+</a>
+
 
   <!-- Google Scholar -->
   <a href="YOUR_GOOGLE_SCHOLAR_URL" style="text-decoration:none;">
