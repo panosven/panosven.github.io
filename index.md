@@ -39,24 +39,29 @@ permalink: /
   gap:18px;
 ">
 
-  <!-- Haas-style CV -->
-  <div style="display:flex; align-items:center; gap:10px;">
-    <a href="/files/cv.pdf" style="text-decoration:none;">
-      <i class="fas fa-file-alt" style="font-size:1.3em; color:#0b3bfc;"></i>
-    </a>
-    <a href="/files/cv.pdf"
-       style="
-         border: 2px solid #0b3bfc;
-         padding: 2px 10px;
-         border-radius: 8px;
-         color: #0b3bfc;
-         font-weight: 600;
-         text-decoration: none;
-         font-size: 0.8em;
-       ">
-       CV
-    </a>
-  </div>
+<!-- Unified CV (icon + CV box) -->
+<div style="display:flex; align-items:center; gap:6px;">
+
+  <!-- Blue file icon -->
+  <a href="/files/cv.pdf" style="text-decoration:none;">
+    <i class="fas fa-file-alt" style="font-size:1.25em; color:#0b3bfc;"></i>
+  </a>
+
+  <!-- CV box -->
+  <a href="/files/cv.pdf"
+     style="
+       border: 2px solid #0b3bfc;
+       padding: 2px 10px;
+       border-radius: 8px;
+       color: #0b3bfc;
+       font-weight: 600;
+       text-decoration: none;
+       font-size: 0.8em;
+     ">
+     CV
+  </a>
+
+</div>
 
   <!-- Scholar -->
   <a href="YOUR_GOOGLE_SCHOLAR_URL" style="text-decoration:none;">
