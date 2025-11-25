@@ -5,12 +5,13 @@ permalink: /
 ---
 
 <div style="text-align: center;">
-  <img src="/images/your_photo.jpg" alt="Profile photo" width="180" style="border-radius: 50%; margin-bottom: 20px;" />
+  <img src="/images/panosven_picture.png" alt="Profile photo" width="180" style="border-radius: 50%; margin-bottom: 20px;" />
 </div>
 
-# Your Name
+# Panagiotis Veneris
 
-**PhD student in Economics**, **University of Liverpool Management School**  
+**PhD Student in Economics**  
+**University of Liverpool Management School**  
 Macroeconomics · Monetary Economics · Macro-Finance  
 <br>
 
@@ -23,12 +24,9 @@ Macroeconomics · Monetary Economics · Macro-Finance
 
 ---
 
-Hi, welcome! I am a **PhD student** in **Economics** at **[University of Liverpool Management School](https://www.liverpool.ac.uk/management/)**.  
-My research focuses on **your research areas**.  
-I received my PhD from **Your University** under **Your Advisor**.  
-In recent years, I have also been affiliated with **institutions**.
+Hi, and welcome! I am a PhD in Economics student at ULMS.  
 
-I'm always happy to meet & talk — feel free to reach out!
+My research interests lie in the area of quantitative macroeconomics, with a special interest in financial frictions, heterogeneity, and the role of capital flows. Over the years, I have conducted research at the Bank of Greece, the European Central Bank, and the Bank of Lithuania.  
 
 ---
 
