@@ -63,7 +63,6 @@ permalink: /
          border: 2px solid #0b3bfc;
          padding: 1px 8px;
          border-radius: 6px;
-         color: #0b3bfc;
          font-weight: 600;
          text-decoration: none;
          font-size: 0.7em;
