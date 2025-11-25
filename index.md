@@ -40,28 +40,27 @@ permalink: /
 ">
 
 <!-- Unified CV (icon + CV box) -->
-<div style="display:flex; align-items:center; gap:6px;">
+<div style="display:flex; align-items:center; gap:3px;">
 
-  <!-- Blue file icon -->
   <a href="/files/cv.pdf" style="text-decoration:none;">
-    <i class="fas fa-file-alt" style="font-size:1.25em; color:#0b3bfc;"></i>
+    <i class="fas fa-file-alt" style="font-size:0.9em; color:#0b3bfc;"></i>
   </a>
 
-  <!-- CV box -->
   <a href="/files/cv.pdf"
      style="
        border: 2px solid #0b3bfc;
-       padding: 2px 10px;
-       border-radius: 8px;
+       padding: 1px 6px;
+       border-radius: 5px;
        color: #0b3bfc;
        font-weight: 600;
        text-decoration: none;
-       font-size: 0.8em;
+       font-size: 0.65em;
      ">
      CV
   </a>
 
 </div>
+
 
   <!-- Scholar -->
   <a href="YOUR_GOOGLE_SCHOLAR_URL" style="text-decoration:none;">
