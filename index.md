@@ -41,7 +41,7 @@ permalink: /
   margin-left: 210px;   /* Align under name */
   display:flex;
   align-items:center;
-  gap:20px;             /* Space between icon groups */
+  gap:30px;             /* Space between icon groups */
 ">
 
   <!-- Unified CV block -->
