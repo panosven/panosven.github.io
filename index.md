@@ -41,17 +41,12 @@ permalink: /
 
   <!-- CV icon -->
  <!-- CV icon + text -->
+<!-- Unified CV button -->
 <a href="/files/cv.pdf"
-   style="display:flex; align-items:center; gap:8px; text-decoration:none; color:#0b3bfc;">
-
-    <!-- Blue file icon -->
+   style="display:flex; align-items:center; gap:8px; text-decoration:none; color:#0b3bfc; font-weight:600;">
     <i class="fas fa-file-alt" style="font-size:1.4em; color:#0b3bfc;"></i>
-
-    <!-- CV text -->
-    <span style="font-size:1.1em; font-weight:600;">CV</span>
-
+    <span style="font-size:1.1em;">CV</span>
 </a>
-
 
   <!-- Google Scholar -->
   <a href="YOUR_GOOGLE_SCHOLAR_URL" style="text-decoration:none;">
