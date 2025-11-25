@@ -48,12 +48,12 @@ permalink: /
   <div style="display:flex; align-items:center; gap:4px;">
 
     <!-- File icon -->
-    <a href="/files/cv.pdf" style="text-decoration:none;">
+    <a href="/files/Veneris_CV_25112025.pdf" style="text-decoration:none;">
       <i class="fas fa-file-alt" style="font-size:1.0em; color:#0b3bfc;"></i>
     </a>
 
     <!-- CV box -->
-    <a href="/files/cv.pdf"
+    <a href="/files/Veneris_CV_25112025.pdf"
        style="
          border: 2px solid #0b3bfc;
          padding: 1px 8px;
