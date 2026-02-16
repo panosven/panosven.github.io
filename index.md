@@ -20,7 +20,7 @@ permalink: /
  
     <!-- Position -->
 <div style="font-size: 1.1em; margin-bottom: 6px;">
-      PhD Student in Economics, University of Liverpool
+      PhD in Economics, University of Liverpool
 </div>
  
     <!-- Research interests -->
