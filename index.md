@@ -94,7 +94,7 @@ permalink: /
 <hr style="margin-top: 10px; margin-bottom: 25px;">
  
 <!-- BIO SECTION -->
-<div style="max-width: 720px;">
+<div style="max-width: 850px;">
 <p style="font-size: 1.05em;">
 Hi, and welcome! I am an independent economist (for now).
 </p>
