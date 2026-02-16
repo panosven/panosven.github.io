@@ -96,13 +96,13 @@ permalink: /
 <!-- BIO SECTION -->
 <div style="max-width: 900px; margin-top: 25px; text-align: justify; text-justify: inter-word;">
 <p style="font-size: 1.05em;">
-Hi, and welcome! I am an independent economist (for now).
+Hi, and welcome! I am on the job market.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
-My research interests lie in the area of quantitative macroeconomics, with a special focus on financial frictions,
-heterogeneity, and the role of capital flows. Over the years, I have conducted research at the Bank of Greece,
-the European Central Bank, and the Bank of Lithuania.
+My main area of interest is in quantitative macroeconomics, with a special focus on monetary policy,
+macro-finance, and international economics. In my research, I develop general equilibrium models to 
+examine how financial frictions, (household) heterogeneity, and digital currencies shape aggregate outcomes.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
@@ -110,7 +110,8 @@ I recently completed my PhD in Economics at the University of Liverpool, supervi
 Oliver de Groot
 </a> and <a href="https://luhan.io/" style="color:#0066cc; text-decoration:none;">
 Lu Han
-</a>.
+</a>. Over the years, I have conducted research at the Bank of Greece,
+the European Central Bank, and the Bank of Lithuania.
 </p>
 
  </div>
