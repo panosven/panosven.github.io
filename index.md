@@ -100,7 +100,7 @@ Hi, and welcome! I am on the job market.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
-My research interests lie in the area of quantitative macroeconomics, with a special focus on financial frictions, heterogeneity, and the role of capital flows.
+My research interests lie in the area of quantitative macroeconomics, with a special interest in monetary policy, macro-finance, and international economics.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
