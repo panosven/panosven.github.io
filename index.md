@@ -100,9 +100,7 @@ Hi, and welcome! I am on the job market.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
-My main area of interest is in quantitative macroeconomics, with a special focus on monetary policy,
-macro-finance, and international economics. In my research, I develop general equilibrium models to 
-examine how financial frictions, (household) heterogeneity, and digital currencies shape aggregate outcomes.
+My research interests lie in the area of quantitative macroeconomics, with a special focus on financial frictions, heterogeneity, and the role of capital flows.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
