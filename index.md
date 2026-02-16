@@ -95,14 +95,13 @@ permalink: /
  
 <!-- BIO SECTION -->
 <p style="font-size: 1.05em;">
-Hi, and welcome! I am a PhD student in Economics at <a href="https://www.liverpool.ac.uk/management/" style="color:#0066cc; text-decoration:none;">
-University of Liverpool Management School (ULMS)
-</a>.
+Hi, and welcome! I am an independent economist (for now).
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
-I am a macroeconomist specializing in quantitative macroeconomics, with research interests in financial frictions, 
-heterogeneity, and the role of capital flows.
+My research interests lie in the area of quantitative macroeconomics, with a special focus on financial frictions,
+heterogeneity, and the role of capital flows. Over the years, I have conducted research at the Bank of Greece,
+the European Central Bank, and the Bank of Lithuania.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
@@ -113,12 +112,7 @@ Lu Han
 </a>.
 </p>
 
-<p style="font-size: 1.05em; margin-top: 15px;">
-My research interests lie in the area of quantitative macroeconomics, with a special interest in financial frictions,
-heterogeneity, and the role of capital flows. Over the years, I have conducted research at the Bank of Greece,
-the European Central Bank, and the Bank of Lithuania.
-</p>
- 
+
 <br>
  
  
