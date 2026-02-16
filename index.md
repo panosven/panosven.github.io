@@ -99,7 +99,17 @@ Hi, and welcome! I am a PhD student in Economics at <a href="https://www.liverpo
 University of Liverpool Management School (ULMS)
 </a>.
 </p>
- 
+
+<p style="font-size: 1.05em; margin-top: 15px;">
+I am a macroeconomist specializing in quantitative macroeconomics, with research interests in financial frictions, 
+heterogeneity, and the role of capital flows.
+</p>
+
+<p style="font-size: 1.05em; margin-top: 15px;">
+I recently completed my PhD in Economics at the University of Liverpool, supervised by <a href="https://sites.google.com/site/oliverdegroot/",style="color:#0066cc; text-decoration:none;">
+</a>..
+</p>
+
 <p style="font-size: 1.05em; margin-top: 15px;">
 My research interests lie in the area of quantitative macroeconomics, with a special interest in financial frictions,
 heterogeneity, and the role of capital flows. Over the years, I have conducted research at the Bank of Greece,
