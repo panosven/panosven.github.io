@@ -107,7 +107,7 @@ heterogeneity, and the role of capital flows.
 
 <p style="font-size: 1.05em; margin-top: 15px;">
 I recently completed my PhD in Economics at the University of Liverpool, supervised by <a href="https://sites.google.com/site/oliverdegroot/",style="color:#0066cc; text-decoration:none;">
-</a>..
+</a>.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
