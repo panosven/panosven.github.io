@@ -100,7 +100,7 @@ Hi, and welcome! I am on the job market.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
-My research interests lie in the area of quantitative macroeconomics, with a special interest in monetary policy, macro-finance, and international economics.
+My research interests lie in the area of quantitative macroeconomics, with a special interest in monetary policy, macro-finance, and international economics. In my research, I develop general equilibrium models to quantify the effects of central bank policies on aggregate outcomes.
 </p>
 
 <p style="font-size: 1.05em; margin-top: 15px;">
