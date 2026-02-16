@@ -110,10 +110,14 @@ I recently completed my PhD in Economics at the University of Liverpool, supervi
 Oliver de Groot
 </a> and <a href="https://luhan.io/" style="color:#0066cc; text-decoration:none;">
 Lu Han
-</a>. Over the years, I have conducted research at the Bank of Greece,
-the European Central Bank, and the Bank of Lithuania.
+</a>.
 </p>
 
+<p style="font-size: 1.05em; margin-top: 15px;">
+Over the years, I have conducted research at the Bank of Greece,
+the European Central Bank, and the Bank of Lithuania.
+ </p>
+ 
  </div>
  
 ---
