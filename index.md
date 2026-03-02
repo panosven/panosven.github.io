@@ -95,15 +95,15 @@ permalink: /
  
 <!-- BIO SECTION -->
 <div style="max-width: 900px; margin-top: 25px; text-align: justify; text-justify: inter-word;">
-<p style="font-size: 1.05em;">
+<p style="font-size: 0.9em;">
 Hi, and welcome! I am on the job market.
 </p>
 
-<p style="font-size: 1.05em; margin-top: 15px;">
+<p style="font-size: 0.9em; margin-top: 15px;">
 My research interests lie in the area of quantitative macroeconomics, with a special interest in monetary policy, macro-finance, and international economics. In my research, I develop general equilibrium models to quantify the effects of central bank policies on aggregate outcomes.
 </p>
 
-<p style="font-size: 1.05em; margin-top: 15px;">
+<p style="font-size: 0.9em; margin-top: 15px;">
 I recently completed my PhD in Economics at the University of Liverpool, supervised by <a href="https://sites.google.com/site/oliverdegroot/" style="color:#0066cc; text-decoration:none;">
 Oliver de Groot
 </a> and <a href="https://luhan.io/" style="color:#0066cc; text-decoration:none;">
@@ -111,7 +111,7 @@ Lu Han
 </a>.
 </p>
 
-<p style="font-size: 1.05em; margin-top: 15px;">
+<p style="font-size: 0.9em; margin-top: 15px;">
 Over the years, I have conducted research at the Bank of Greece,
 the European Central Bank, and the Bank of Lithuania.
  </p>
