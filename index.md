@@ -16,7 +16,7 @@ permalink: /
 <div>
  
     <!-- Name -->
-<h1 style="margin-bottom: 10px;color: #111;">Panagiotis Veneris</h1>
+<h1 style="margin-bottom: 10px;">Panagiotis Veneris</h1>
  
     <!-- Position -->
 <div style="font-size: 1.05em; margin-bottom: 6px;">
