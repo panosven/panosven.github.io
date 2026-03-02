@@ -19,12 +19,12 @@ permalink: /
 <h1 style="margin-bottom: 10px;">Panagiotis Veneris</h1>
  
     <!-- Position -->
-<div style="font-size: 1.1em; margin-bottom: 6px;">
+<div style="font-size: 1.05em; margin-bottom: 6px;">
       PhD in Economics, University of Liverpool
 </div>
  
     <!-- Research interests -->
-<div style="font-size: 1.05em; color: #555; margin-bottom: 6px;">
+<div style="font-size: 1em; color: #555; margin-bottom: 6px;">
       Macroeconomics · Monetary Economics · Macro-Finance
 </div>
  
