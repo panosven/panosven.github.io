@@ -24,7 +24,7 @@ permalink: /
 </div>
  
     <!-- Research interests -->
-<div style="font-size: 1em; color: #4a6b8a; margin-bottom: 6px;">
+<div style="font-size: 1em; color: #555; margin-bottom: 6px;">
       Macroeconomics · Monetary Economics · Macro-Finance
 </div>
  
