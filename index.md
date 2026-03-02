@@ -37,7 +37,7 @@ permalink: /
 <div style="
   text-align:left;
   font-size: 1.4em;
-  margin-top: 6px;      /* Very small gap */
+  margin-top: 3px;      /* Very small gap */
   margin-left: 210px;   /* Align under name */
   display:flex;
   align-items:center;
