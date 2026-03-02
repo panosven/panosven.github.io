@@ -35,7 +35,7 @@ permalink: /
  
 <!-- ICON ROW BELOW HEADER -->
 <div style="
-  text-align:center;
+  text-align:left;
   font-size: 1.4em;
   margin-top: 2px;      /* Very small gap */
   margin-left: 210px;   /* Align under name */
