@@ -53,7 +53,7 @@ permalink: /
 <div style="display:flex; align-items:center; gap:4px;">
  
     <!-- File icon -->
-<a href="/files/Veneris_CV_25112025.pdf" title="CV" style="text-decoration:none;">
+<a href="/files/Veneris_CV_06032026.pdf" title="CV" style="text-decoration:none;">
 <i class="fas fa-file-alt" style="font-size:0.9em;"></i>
 </a>
  
