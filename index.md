@@ -45,7 +45,7 @@ permalink: /
 ">
  
 <!-- Email -->
-<a href="mailto:panagiotis.veneris@liverpool.ac.uk" title="Email">
+<a href="mailto:pveneris@hotmail.gr" title="Email">
 <i class="fas fa-envelope"></i>
 </a>
  
