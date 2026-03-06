@@ -84,7 +84,7 @@ permalink: /
  
  
   <!-- GitHub -->
-<a href="https://github.com/panosven/NumericalMethods" title="Code" target="_blank">
+<a href="https://github.com/pveneris/NumericalMethods" title="Code" target="_blank">
 <i class="fab fa-github"></i>
 </a>
 </div>
