@@ -58,7 +58,7 @@ permalink: /
 </a>
  
     <!-- CV box -->
-<a href="/files/Veneris_CV_25112025.pdf"
+<a href="/files/Veneris_CV_06032026.pdf"
        style="
          border: 2px solid #0b3bfc;
          padding: 1px 8px;
